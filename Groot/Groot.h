@@ -28,7 +28,7 @@ FOUNDATION_EXPORT double GrootVersionNumber;
 //! Project version string for Groot.
 FOUNDATION_EXPORT const unsigned char GrootVersionString[];
 
-#import <Groot/GRTError.h>
-#import <Groot/GRTManagedStore.h>
-#import <Groot/NSValueTransformer+Groot.h>
-#import <Groot/GRTJSONSerialization.h>
+#import "GRTError.h"
+#import "GRTManagedStore.h"
+#import "NSValueTransformer+Groot.h"
+#import "GRTJSONSerialization.h"
